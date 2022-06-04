@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like coding
 -->
 Nice to meet you
+This is the title
+
+Javascript in <js>
+------------------
+
+Now loading...
+
+Show hidden text
