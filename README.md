@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a college student
 - 🌱 I’m currently learning MIS
-- 👯 I’m looking to collaborate on 專題
+# - 👯 I’m looking to collaborate on 專題
 - 🤔 I’m looking for help with my final test.
 - 💬 Ask me about everything
 - 📫 How to reach me: facebook,instegram
