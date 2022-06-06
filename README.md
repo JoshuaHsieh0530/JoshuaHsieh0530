@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 Nice to meet you
 This is the title
 
+個人CV:https://joshuahsieh0530.github.io/
+
 Javascript in <js>
 ------------------
 
